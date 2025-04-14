@@ -109,8 +109,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -0.00012207031, y: 0}
+  m_SizeDelta: {x: -128.6937, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &6420653240352702383
 CanvasRenderer:
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: God Gold
+  m_text: Gods Tempest Match
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3fb80cfce0a348545ad503698f638608, type: 2}
   m_sharedMaterial: {fileID: 6244777675434862190, guid: 3fb80cfce0a348545ad503698f638608, type: 2}
@@ -167,7 +167,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 93.5
+  m_fontSize: 98.3
   m_fontSizeBase: 100
   m_fontWeight: 400
   m_enableAutoSizing: 1
