@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "765996829528",
+    "project_id": "un-75-ef2ce",
+    "storage_bucket": "un-75-ef2ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765996829528:ios:66fd5fede387864d52f32d",
+        "android_client_info": {
+          "package_name": "com.teremnyukdev.app"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbwc5ZL9BjUMexMUVIuN8GBG59n8MRWvE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

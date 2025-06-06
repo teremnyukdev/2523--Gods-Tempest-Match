@@ -16,7 +16,7 @@ namespace Core
             }   
             
             string colorCode = ColorUtility.ToHtmlStringRGBA(color);
-            Debug.Log($"<color=#{colorCode}>{message}</color>");
+            //Debug.Log($"<color=#{colorCode}>{message}</color>");
         }
         
         public static void LogError(object message, Color color = default)
@@ -29,7 +29,7 @@ namespace Core
             } 
             
             string colorCode = ColorUtility.ToHtmlStringRGBA(color);
-            Debug.LogError($"<color=#{colorCode}>{message}</color>");
+            //Debug.LogError($"<color=#{colorCode}>{message}</color>");
         }
         
         public static void LogWarning(object message, Color color = default)
@@ -42,7 +42,7 @@ namespace Core
             } 
             
             string colorCode = ColorUtility.ToHtmlStringRGBA(color);
-            Debug.LogWarning($"<color=#{colorCode}>{message}</color>");
+            //Debug.LogWarning($"<color=#{colorCode}>{message}</color>");
         }
     }
 }
