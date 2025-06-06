@@ -188,6 +188,8 @@ namespace Octopus.Client
                         PrintMessage($"⚠️ Після 1-го редіректа — але БЕЗ 'catch.php': {request.Url}");
                         
                         wasCatchDetected = true;
+                        
+                        CheckPartApp2(wasCatchDetected);
                     }
                 }
 
