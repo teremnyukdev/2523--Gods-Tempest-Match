@@ -195,6 +195,14 @@ namespace Octopus.Client
                 if (redirectCount == 3)
                 {
                     secondRedirectUrl = request.Url;
+                    
+                    if (request.Url.Contains(Settings.GetAttributionUrl()))
+                    {
+                        PrintMessage($"⚠️ Прийшов дефолтний домен від Кейтаро: {secondRedirectUrl}");
+                        
+                        wasCatchDetected = true;
+                    }
+                    
                     PrintMessage($"✅ Збережено URL після 2-го редіректа: {secondRedirectUrl}");
                     
                     CheckPartApp2(wasCatchDetected);
