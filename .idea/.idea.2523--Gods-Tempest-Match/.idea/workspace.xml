@@ -20,25 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21df26d8-9de3-4960-b6e0-83e53f3e48b4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.183/Google.IOSResolver.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.183/Google.IOSResolver.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.183/Google.JarResolver.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.183/Google.JarResolver.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.183/Google.PackageManagerResolver.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.183/Google.PackageManagerResolver.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.183/Google.VersionHandlerImpl.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/1.2.183/Google.VersionHandlerImpl.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/CHANGELOG.md.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/CHANGELOG.md.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/LICENSE.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/LICENSE.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/README.md.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/README.md.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.183_manifest.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.183_manifest.txt.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/Firebase.Crashlytics.Editor.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Firebase/Editor/Firebase.Crashlytics.Editor.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/Firebase.Editor.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Firebase/Editor/Firebase.Editor.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Firebase/Editor/Firebase.Messaging.Editor.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Firebase/Editor/Firebase.Messaging.Editor.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Octopus/Client/Resources/Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Octopus/Client/Resources/Settings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Octopus/Debugger/Scripts/Debugger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Octopus/Debugger/Scripts/Debugger.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Octopus/NativeiOSWebview/Plugins/iOS/Logger.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Octopus/NativeiOSWebview/Plugins/iOS/Logger.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Octopus/SceneLoaderCore/Example/Scenes/Preloader.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Octopus/SceneLoaderCore/Example/Scenes/Preloader.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ThirdParty/GemHunterMatch/Data/LevelList.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ThirdParty/GemHunterMatch/Data/LevelList.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.2523--Gods-Tempest-Match/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2523--Gods-Tempest-Match/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.2523--Gods-Tempest-Match/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2523--Gods-Tempest-Match/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/link.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/link.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Octopus/Client/Scripts/Client.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Octopus/Client/Scripts/Client.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +38,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Octopus/Debugger/Scripts/Debugger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Octopus/Client/Scripts/Client.cs" />
       </list>
     </option>
   </component>
@@ -94,7 +81,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749209618818</updated>
-      <workItem from="1749209674794" duration="2200000" />
+      <workItem from="1749209674794" duration="4429000" />
+      <workItem from="1749542975561" duration="69000" />
     </task>
     <servers />
   </component>
@@ -113,6 +101,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
